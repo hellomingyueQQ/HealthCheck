@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorDemo", "BlazorDemo.csproj", "{FA78DEA6-D808-44F3-BAD1-46BA7755110E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthChecker", "..\HealthChecker\HealthChecker.csproj", "{20735D05-DEF8-47DE-AD19-5912A90A2CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemo", "..\MVCDemo\MVCDemo.csproj", "{7F77F431-3C8B-4CCD-A465-D062EF0C87DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA78DEA6-D808-44F3-BAD1-46BA7755110E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA78DEA6-D808-44F3-BAD1-46BA7755110E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA78DEA6-D808-44F3-BAD1-46BA7755110E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA78DEA6-D808-44F3-BAD1-46BA7755110E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20735D05-DEF8-47DE-AD19-5912A90A2CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20735D05-DEF8-47DE-AD19-5912A90A2CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20735D05-DEF8-47DE-AD19-5912A90A2CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20735D05-DEF8-47DE-AD19-5912A90A2CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F77F431-3C8B-4CCD-A465-D062EF0C87DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F77F431-3C8B-4CCD-A465-D062EF0C87DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F77F431-3C8B-4CCD-A465-D062EF0C87DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F77F431-3C8B-4CCD-A465-D062EF0C87DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DDB8131-1EE1-4628-920B-2A3A773E1830}
+	EndGlobalSection
+EndGlobal
